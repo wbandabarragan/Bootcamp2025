@@ -43,4 +43,20 @@ Durante este módulo, los participantes realizarán tutoriales interactivos de p
 - Detectores de filos: Métodos de Gradientes
   
 - Herramientas de Scikit para Imágenes
-  
+
+## Clase 5: H. Dénes (Yachay Tech)
+
+
+## Clase 6: H. Dénes (Yachay Tech)
+
+
+## Clase 7: F. Buitrago (Universidad de Valladolid)
+
+## Clase 8: F. Buitrago (Universidad de Valladolid)
+## Clase 9: H. Dénes (Yachay Tech)
+## Clase 10: F. Buitrago (Universidad de Valladolid)
+## Clase 11: F. Buitrago (Universidad de Valladolid)
+## Clase 12: F. Buitrago (Universidad de Valladolid)
+## Clase 13: F. Buitrago (Universidad de Valladolid)
+
+
