@@ -1,6 +1,6 @@
 # Curso A: Procesamiento de Imágenes (7 - 11 de julio de 2025)
 
-## Instructores: F. Buitrago, W. Banda-Barragán, y H. Dénes
+## Instructores: F. Buitrago, W. Banda-Barragán y H. Dénes
 
 Durante este módulo, los participantes realizarán tutoriales interactivos de python para análisis de imágenes.
 
