@@ -48,17 +48,19 @@ Durante este módulo, los participantes realizarán tutoriales interactivos de p
 
 - Understanding radio astronomy images.
 
-- Identifying sources in radio astronomy images.
+- Opening and visualising radio astronomy images
 
-- Measuring the properties of radio sources.
+- Identifying sources in radio astronomy images
+
+- Measuring the properties of radio sources
   
 ## Clase 6: H. Dénes (Yachay Tech)
 
-- Opening 3D spectral line data cubes.
+- Opening 3D spectral line data cubes
   
-- Visualising 3D spectral line data.
+- Visualising 3D spectral line data
 
-- Measuring source properties in 3D data cubes.
+- Measuring source properties in 3D data cubes
 
 ## Clase 7: F. Buitrago (Universidad de Valladolid)
 
