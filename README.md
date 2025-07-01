@@ -10,11 +10,18 @@ En un mundo donde la inteligencia artificial y la ciencia de datos desempeñan u
 ## PROGRAMA:
 El Bootcamp consta de 3 cursos que cubren un total de 80 horas:
 
-### CURSO A: 30 horas - Procesamiento de Imágenes (7 - 11 de julio).
+### CURSO A: 30 horas - Procesamiento de Imágenes (7 - 11 de julio)
+
+https://github.com/Astronomia-Ecuador/Bootcamp2025/tree/main/CursoA_Semana1
 
 ### CURSO B: 30 horas - Inteligencia artificial (14 - 18 de julio).
 
+https://github.com/Astronomia-Ecuador/Bootcamp2025/tree/main/CursoB_Semana2
+
+
 ### ⁠CURSO C: 20 horas - Astronomía educativa, cultural y técnica (21 - 24 de julio).
+
+https://github.com/Astronomia-Ecuador/Bootcamp2025/tree/main/CursoC_Semana3
 
 Usted puede inscribirse en 1, 2 o en los 3 cursos que ofrecemos.
 
