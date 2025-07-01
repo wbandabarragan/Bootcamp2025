@@ -34,7 +34,7 @@ Durante este módulo, los participantes realizarán tutoriales interactivos de p
   
 - Visualización 2D y 3D
 
-## Clase 3: W. Banda-Barragán (Yachay Tech)
+## Clase 4: W. Banda-Barragán (Yachay Tech)
 
 - Algoritmos de valor umbral e histogramas
   
