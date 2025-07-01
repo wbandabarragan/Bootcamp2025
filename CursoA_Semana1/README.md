@@ -58,7 +58,7 @@ Durante este módulo, los participantes realizarán tutoriales interactivos de p
 
 ## Clase 9: H. Dénes (Yachay Tech)
 
-- Analsyibg neutral hydrogen spectral line data
+- Analysing neutral hydrogen spectral line data
   
 ## Clase 10: F. Buitrago (Universidad de Valladolid)
 
