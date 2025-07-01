@@ -46,11 +46,19 @@ Durante este módulo, los participantes realizarán tutoriales interactivos de p
 
 ## Clase 5: H. Dénes (Yachay Tech)
 
-- Sourcefinding on radio astronomy images.
+- Understanding radio astronomy images.
+
+- Identifying sources in radio astronomy images.
+
+- Measuring the properties of radio sources.
   
 ## Clase 6: H. Dénes (Yachay Tech)
 
-- Analysing 3D spectral line data cubes.
+- Opening 3D spectral line data cubes.
+  
+- Visualising 3D spectral line data.
+
+- Measuring source properties in 3D data cubes.
 
 ## Clase 7: F. Buitrago (Universidad de Valladolid)
 
@@ -58,7 +66,11 @@ Durante este módulo, los participantes realizarán tutoriales interactivos de p
 
 ## Clase 9: H. Dénes (Yachay Tech)
 
-- Analysing neutral hydrogen spectral line data
+- Neutral hydrogen in the GAlaxy
+  
+- Obteaining spectral information from data cubes
+
+- Measuring the properties of spectral lines
   
 ## Clase 10: F. Buitrago (Universidad de Valladolid)
 
