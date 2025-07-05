@@ -4,6 +4,11 @@
 
 Durante este módulo, los participantes realizarán tutoriales interactivos de python para análisis de imágenes.
 
+## Itinerario:
+
+![Semana_1](https://github.com/user-attachments/assets/3fb5732b-0444-47b6-8bff-1842701722bc)
+
+
 ## Clase 1: W. Banda-Barragán (Yachay Tech)
 
 - Linux y la necesidad de software libre
