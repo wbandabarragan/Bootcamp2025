@@ -1,4 +1,4 @@
-# Lecture 102: Introduction to Anaconda
+# Introduction to Anaconda
 
 This course focuses on python, we will use python3 as python2 is not supported anymore.
 
@@ -20,7 +20,7 @@ One option is to use Google Colab, which we will use in the classroom. For this 
 - The disadvantage is that Colab provides limited memory resources and very limited disc space since everything is stored in a cloud, so you can only use it to process small datasets.
 
 ## How do I test Google Colab?
-1. Download this notebook: [https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-Introduction-GoogleColab.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-Introduction-GoogleColab.ipynb)
+1. Download a notebook: https://github.com/Astronomia-Ecuador/Bootcamp2025/blob/main/CursoA_Semana1/Clase_01/Clase_1b.ipynb
 2. Open Goole Colab (you will need to log into your Yachay email accounts).
 3. Upload the notebook, and run it. If you see the plots, Google Colab works.
 
@@ -92,9 +92,7 @@ For testing and customising your installation on Linux/MaxOSX laptops/PCs, follo
   $ jupyter notebook
 ~~~~
 
-10. Once the notebook is open, you can start coding your first notebook:<br>
-
-[https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-Introduction-GoogleColab.ipynb](https://github.com/wbandabarragan/computational-physics-1/blob/main/unit-1/101-Introduction-GoogleColab.ipynb)
+10. Once the notebook is open, you can start coding your first notebook.<br>
 
 
 ### On Windows:
