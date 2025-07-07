@@ -1,5 +1,7 @@
 # Curso A: Procesamiento de Imágenes (7 - 11 de julio de 2025)
 
+## Yachay Tech University
+
 ## Instructores: F. Buitrago, W. Banda-Barragán y H. Dénes
 
 Durante este módulo, los participantes realizarán tutoriales interactivos de python para análisis de imágenes.
