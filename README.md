@@ -45,4 +45,6 @@ https://cphysplus.github.io/bootcamp-imagenes
 https://cedia.edu.ec/beneficio/fondo-avante
 
 
-##Recurso (Pep8 Format): https://pypi.org/project/black/
+## Recurso (Pep8 Format):
+
+https://pypi.org/project/black/
