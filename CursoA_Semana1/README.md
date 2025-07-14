@@ -69,11 +69,7 @@ Durante este módulo, los participantes realizarán tutoriales interactivos de p
 
 - Measuring source properties in 3D data cubes
 
-## Clase 7: F. Buitrago (Universidad de Valladolid)
-
-## Clase 8: F. Buitrago (Universidad de Valladolid)
-
-## Clase 9: H. Dénes (Yachay Tech)
+## Clase 7: H. Dénes (Yachay Tech)
 
 - Neutral hydrogen in the GAlaxy
   
@@ -81,12 +77,7 @@ Durante este módulo, los participantes realizarán tutoriales interactivos de p
 
 - Measuring the properties of spectral lines
   
-## Clase 10: F. Buitrago (Universidad de Valladolid)
+## Clases: F. Buitrago (Universidad de Valladolid)
 
-## Clase 11: F. Buitrago (Universidad de Valladolid)
-
-## Clase 12: F. Buitrago (Universidad de Valladolid)
-
-## Clase 13: F. Buitrago (Universidad de Valladolid)
-
+https://github.com/Astronomia-Ecuador/Bootcamp2025/tree/main/CursoA_Semana1/clases_fbuitrago
 
