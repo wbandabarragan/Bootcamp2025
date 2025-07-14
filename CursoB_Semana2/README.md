@@ -4,6 +4,13 @@
 
 This module will be in English and Spanish.
 
+#### Lectures (J. M. Ramírez) Neural Networks and Aritificial Intelligence:
+
+https://drive.google.com/file/d/1xVfGk8KBBiIlbBwNxogSYLWhAft1cjDI/view?usp=drive_link
+
+https://drive.google.com/file/d/1dE4Ov0LU0LdBUs2dWQAcA-E1mKWMatcZ/view?usp=drive_link
+
+
 #### Lecture (J.R. Martínez) Introduction to Machine Learning
 
 - Types of machine learning: supervised, unsupervised, self supervised.
