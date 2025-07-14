@@ -10,6 +10,8 @@ https://drive.google.com/file/d/1xVfGk8KBBiIlbBwNxogSYLWhAft1cjDI/view?usp=drive
 
 https://drive.google.com/file/d/1dE4Ov0LU0LdBUs2dWQAcA-E1mKWMatcZ/view?usp=drive_link
 
+https://github.com/StatQuest/signa/blob/main/README.md
+
 
 #### Lecture (J.R. Martínez) Introduction to Machine Learning
 
