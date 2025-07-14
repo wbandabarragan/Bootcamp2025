@@ -25,6 +25,10 @@ https://github.com/StatQuest/signa/blob/main/README.md
 
 - Lab: Classification of galaxy images with CNNs.
 
+#### Code: https://colab.research.google.com/drive/1B1nJg3Kk9PmmPn35kbvM5i2MTGQ3XTBZ?usp=sharing
+
+#### Data: https://drive.google.com/file/d/1jupuQxIY-zq6hz-3lcD_JpVisvPzHVS8/view
+
 #### Lecture (J.R. Martínez) Evaluation Metrics in Machine Learning
 
 - Validation, cross-validation.
