@@ -1,10 +1,10 @@
 # Curso B: Inteligencia Artificial (14 - 18 de julio de 2025)
 
-## Instructores: J.R. Martínez, J. M. Ramírez y H. Denés
+### Instructores: J.R. Martínez, J. M. Ramírez y H. Denés
 
 This module will be in English and Spanish.
 
-### Lectures (José Manuel Ramírez) Neural Networks and Aritificial Intelligence:
+## Lectures (José Manuel Ramírez) Neural Networks and Aritificial Intelligence:
 
 #### Code: https://drive.google.com/file/d/1xVfGk8KBBiIlbBwNxogSYLWhAft1cjDI/view?usp=drive_link
 
@@ -13,7 +13,7 @@ This module will be in English and Spanish.
 #### Tutorial: https://github.com/StatQuest/signa/blob/main/README.md
 
 
-### Lectures (Rafael Martínez) Introduction to Machine Learning
+## Lectures (Rafael Martínez) Introduction to Machine Learning
 
 #### Code:
 
