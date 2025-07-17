@@ -15,9 +15,19 @@ This module will be in English and Spanish.
 
 #### Lecture (J.R. Martínez) Introduction to Machine Learning
 
-#### Code: https://colab.research.google.com/drive/1B1nJg3Kk9PmmPn35kbvM5i2MTGQ3XTBZ?usp=sharing
+#### Code:
 
-#### Data: https://drive.google.com/file/d/1jupuQxIY-zq6hz-3lcD_JpVisvPzHVS8/view
+1. https://colab.research.google.com/drive/1B1nJg3Kk9PmmPn35kbvM5i2MTGQ3XTBZ?usp=sharing
+
+2. https://drive.google.com/file/d/1K3EFJGkiHUhFXrVZVF0uW7LP8chjgVW2/view?usp=sharing
+
+#### Data:
+
+1. https://drive.google.com/file/d/1jupuQxIY-zq6hz-3lcD_JpVisvPzHVS8/view
+
+2. https://drive.google.com/file/d/1Uctd_iUdDV-FedZR5yWojnE5lJnw5lFu/view?usp=sharing
+
+#### Topics:
 
 - Types of machine learning: supervised, unsupervised, self supervised.
 
