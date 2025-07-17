@@ -15,6 +15,10 @@ This module will be in English and Spanish.
 
 #### Lecture (J.R. Martínez) Introduction to Machine Learning
 
+#### Code: https://colab.research.google.com/drive/1B1nJg3Kk9PmmPn35kbvM5i2MTGQ3XTBZ?usp=sharing
+
+#### Data: https://drive.google.com/file/d/1jupuQxIY-zq6hz-3lcD_JpVisvPzHVS8/view
+
 - Types of machine learning: supervised, unsupervised, self supervised.
 
 - Introduction to neural networks: fully connected neural networks.
@@ -24,14 +28,6 @@ This module will be in English and Spanish.
 - Supervised learning for classification and regression
 
 - Lab: Classification of galaxy images with CNNs.
-
-#### Code: https://colab.research.google.com/drive/1B1nJg3Kk9PmmPn35kbvM5i2MTGQ3XTBZ?usp=sharing
-
-#### Data: https://drive.google.com/file/d/1jupuQxIY-zq6hz-3lcD_JpVisvPzHVS8/view
-
-
-
-#### Lecture (J.R. Martínez) Evaluation Metrics in Machine Learning
 
 - Validation, cross-validation.
 
@@ -45,8 +41,6 @@ This module will be in English and Spanish.
 
 - Lab: Evaluating the galaxy image classifier.
 
-#### Lecture (J.R. Martínez) Unsupervised machine learning
-
 - Clustering methods.
 
 - Dimensionality reduction.
@@ -59,8 +53,6 @@ This module will be in English and Spanish.
 
 - Lab: Clustering galaxy morphology/anomaly detection
 
-#### Lecture (J.R. Martínez) Machine learning for time-domain astrophysics
-
 - Introduction to time domain astronomy
 
 - Recurrent neural networks.
@@ -70,8 +62,6 @@ This module will be in English and Spanish.
 - Self-supervised learning
 
 - Lab: Light curve forecasting
-
-#### Lecture 5 (J.R. Martínez) Statistical Inference
 
 - Bayesian analysis of data.
 
