@@ -4,7 +4,7 @@
 
 This module will be in English and Spanish.
 
-#### Lectures (J. M. Ramírez) Neural Networks and Aritificial Intelligence:
+### Lectures (José Manuel Ramírez) Neural Networks and Aritificial Intelligence:
 
 #### Code: https://drive.google.com/file/d/1xVfGk8KBBiIlbBwNxogSYLWhAft1cjDI/view?usp=drive_link
 
@@ -13,7 +13,7 @@ This module will be in English and Spanish.
 #### Tutorial: https://github.com/StatQuest/signa/blob/main/README.md
 
 
-#### Lecture (J.R. Martínez) Introduction to Machine Learning
+### Lectures (Rafael Martínez) Introduction to Machine Learning
 
 #### Code:
 
