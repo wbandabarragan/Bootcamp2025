@@ -31,6 +31,9 @@ https://github.com/StatQuest/signa/blob/main/README.md
 
 2. https://drive.google.com/file/d/1K3EFJGkiHUhFXrVZVF0uW7LP8chjgVW2/view?usp=sharing
 
+3. https://drive.google.com/file/d/1qjzXClT2Ut3omC6ywXn9LI2xYau6xbeC/view?usp=sharing
+
+
 #### Data:
 
 1. https://drive.google.com/file/d/1jupuQxIY-zq6hz-3lcD_JpVisvPzHVS8/view
